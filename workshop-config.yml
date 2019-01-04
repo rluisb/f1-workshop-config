@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: workshop-service
 server:
   port: 8085
 eureka:
